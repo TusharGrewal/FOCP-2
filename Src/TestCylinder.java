@@ -16,7 +16,7 @@ this.r=x1;
 Circle1(double x1,String clr)
 {
 r=x1;	
-color=clr;;
+color=clr;
 }
 void setvalue1()
 {
