@@ -151,7 +151,7 @@ projects[j].DisplayProject(projects[j].getz());
 }
 }
 }
-class StudentRecord
+class StudentRecordAssigment
 {
 static public void main(String args[])
 {
