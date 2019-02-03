@@ -160,7 +160,7 @@ String fn, ln, em, cn, l1, l2, c, s;
 int p, d, m, y, x, v, b, n, i;	
 System.out.println("Enter the number of students");
 n=input.nextInt();
-Student[] student = new Student[n];
+Student student[] = new Student[n];
 for (i=0;i<n;i++)
 {
 System.out.println("Enter fname");
@@ -209,7 +209,7 @@ quali[j]=new Qualification(q,u,i,cgpa);
 }
 System.out.println("Enter number of Projects");
 b=input.nextInt();
-Project[] proj = new Project[b];
+Project proj[] = new Project[b];
 String n, r;
 int ds, ms, ys, dl, ml, yl, z, k;
 for(j=0;j<b;j++)
